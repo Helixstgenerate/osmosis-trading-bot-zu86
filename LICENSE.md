@@ -1,4 +1,4 @@
-# 
+# custom osmosis trading bot Plugin | MEV-strategies + fee-optimization is the best osmosis trading bot, featuring MEV-strategies and fee-optimization. Smart, fast, and optimized
 
 
 
